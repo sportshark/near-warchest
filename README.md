@@ -41,32 +41,17 @@ Then run with `./near-warchest`.
 outputs like below:
 
 ```
-2020/07/03 21:49:46 --------------------
-2020/07/03 21:49:49 current seat price: 108202
-2020/07/03 21:49:51 next seat price: 106596
-2020/07/03 21:49:53 proposal seat price: 112481
-2020/07/03 21:49:54 current epoch percentage: 91.69
-2020/07/03 21:49:54 nothing to do now, epoch percentage: 91.69
-2020/07/03 21:54:46 --------------------
-2020/07/03 21:54:49 current seat price: 108202
-2020/07/03 21:54:51 next seat price: 106596
-2020/07/03 21:54:53 proposal seat price: 112481
-2020/07/03 21:54:54 current epoch percentage: 94.54
-2020/07/03 21:54:54 nothing to do now, epoch percentage: 94.54
-2020/07/03 21:59:46 --------------------
-2020/07/03 21:59:49 current seat price: 108202
-2020/07/03 21:59:51 next seat price: 106596
-2020/07/03 21:59:53 proposal seat price: 112481
-2020/07/03 21:59:54 current epoch percentage: 97.39
-2020/07/03 22:00:02 ping contract success.
-2020/07/03 22:00:03 contract total stake 157487
-2020/07/03 22:00:05 account staked balance: 86978
-2020/07/03 22:00:05 try to unstake: 14
-2020/07/03 22:00:13 unstake successfully
-2020/07/03 22:04:46 --------------------
+2020/07/03 23:43:04 --------------------
+2020/07/03 23:43:06 current seat price: 106596
+2020/07/03 23:43:08 next seat price: 112528
+2020/07/03 23:43:10 proposal seat price: 106761
+2020/07/03 23:43:11 contract total stake 157473
+2020/07/03 23:43:13 current epoch percentage: 52.68
+2020/07/03 23:43:13 nothing to do now, epoch percentage: 52.68
 
 ```
 
+you can check the seat price and stake at the log.
 
 ## TODO List
 - [ ] refactor messy code
